@@ -1,0 +1,16 @@
+array(11) {
+[0]=> object(stdClass)#927 (6) {
+["attribute_id"]=> string(1)
+"4" ["attribute_name"]=> string(4) "book" ["attribute_label"]=> string(4) "book"
+["attribute_type"]=> string(6) "select"
+["attribute_orderby"]=> string(10) "menu_order"
+["attribute_public"]=> string(1) "0" }
+[1]=> object(stdClass)#928 (6) { ["attribute_id"]=> string(1) "9"
+["attribute_name"]=> string(8) "cityinit"
+["attribute_label"]=> string(8) "cityinit"
+["attribute_type"]=> string(6) "select"
+["attribute_orderby"]=> string(10) "menu_order"
+["attribute_public"]=> string(1) "0" }
+[2]=> object(stdClass)#929 (6) {
+["attribute_id"]=> string(1) "3"
+["attribute_name"]=> string(5) "color" ["attribute_label"]=> string(5) "color" ["attribute_type"]=> string(6) "select" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "1" } [3]=> object(stdClass)#930 (6) { ["attribute_id"]=> string(1) "7" ["attribute_name"]=> string(3) "rmi" ["attribute_label"]=> string(3) "rmi" ["attribute_type"]=> string(6) "select" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "0" } [4]=> object(stdClass)#931 (6) { ["attribute_id"]=> string(1) "8" ["attribute_name"]=> string(9) "rmisample" ["attribute_label"]=> string(9) "rmisample" ["attribute_type"]=> string(6) "select" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "1" } [5]=> object(stdClass)#932 (6) { ["attribute_id"]=> string(1) "6" ["attribute_name"]=> string(6) "sample" ["attribute_label"]=> string(6) "sample" ["attribute_type"]=> string(6) "select" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "0" } [6]=> object(stdClass)#933 (6) { ["attribute_id"]=> string(1) "5" ["attribute_name"]=> string(4) "size" ["attribute_label"]=> string(4) "size" ["attribute_type"]=> string(6) "select" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "1" } [7]=> array(1) { ["stdClass"]=> object(stdClass)#934 (6) { ["attribute_id"]=> int(10) ["attribute_name"]=> string(5) "soozy" ["attribute_label"]=> string(5) "soozy" ["attribute_type"]=> string(6) "select" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> int(1) } } [8]=> array(1) { ["stdClass"]=> array(6) { ["attribute_id"]=> int(11) ["attribute_name"]=> string(5) "test3" ["attribute_label"]=> string(5) "test3" ["attribute_type"]=> string(5) "test3" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "1" } } [9]=> array(1) { ["stdClass"]=> object(stdClass)#935 (6) { ["attribute_id"]=> int(12) ["attribute_name"]=> string(5) "test5" ["attribute_label"]=> string(5) "test5" ["attribute_type"]=> string(5) "test5" ["attribute_orderby"]=> string(10) "menu_order" ["attribute_public"]=> string(1) "1" } } [10]=> string(201) "{"attribute_id" : $wpdb->insert_id, "attribute_name" : $attributeName, "attribute_label" : $attributeName, "attribute_type" : $attributeName, "attribute_orderby" : 'menu_order', "attribute_public" : 1}" }
